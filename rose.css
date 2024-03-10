@@ -1,0 +1,28 @@
+*{margin:0;padding: 0;}
+.sidenav{background-image:url(imgs/sidenav.jpg);
+background-position: center;
+background-size: cover;}
+.bgdropdown{background-color:transparent;}
+.navsection h3{text-align: center;align-items: center;display: flex;border-radius: 15px;margin-left: 42%;}
+.firstpage{background-image: url(imgs/rosebg1.jpg);
+width:100%;
+height: 100vh;
+background-position: center;
+background-size: cover;
+}
+.body .text{padding-top:150px;
+text-align:center;
+}
+.body .text h1{margin-left: 7%;
+color: white;}
+
+.pacifico-regular {
+      font-family: "Pacifico", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .body .text pre{font-size: larger;color:white;}
+.navsection img{margin-left: 93%;}
+.navleftbtn{color: white; 
+background-color:white;}
+.sidenav .bgdropdown a:hover{border: 1px solid white;border-radius: 10px;background-color: transparent;}

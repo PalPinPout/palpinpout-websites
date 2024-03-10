@@ -1,0 +1,120 @@
+.box{	
+		
+		border: 2px solid white;
+		width: 25%;
+		height: 66vh;
+		margin-top: 6.25%;
+		margin-left: 65%;
+		border-radius:10px;
+	}
+h1 {	text-align: center;
+		margin-top: 20px;
+		padding-top:7px;
+		padding-bottom:7px;
+		color: white;
+		flex-direction:end;
+		
+	}
+h2 {	text-align: center;
+		margin-top: 0px;
+		padding-top:7px;
+		padding-bottom:7px;
+		color: white;
+		flex-direction:end;
+	
+	}
+.box a{	text-decoration: none;
+		color: black;
+		
+		background-color: white;
+		margin: 20px 20px;
+		
+	}
+.fb{	
+		
+		border-radius: 5px;
+		align-items: center;
+		margin: 10px 0px;
+		display: flex;
+		height: 5vh;
+		font-size: large;
+		
+		text-align: center;
+	}
+.fb:hover{
+		
+		background: #1877f2;
+		color: white;
+}
+.google{
+	border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;
+	font-size: large;
+}
+.google:hover{
+	background-color: red;
+	color: white;
+}
+.X{
+	border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;
+	font-size: large;
+}
+.X:hover{background-color:black;
+		 color: white;}
+.linkedin{
+	border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;
+	font-size: large;
+}
+.linkedin:hover{
+	background-color: #0077B5;
+	color: white;
+}
+body{background-image: url(imgs/rain-water-green-leaf-macro.jpg);
+	 background-position: center;
+	 background-size: cover;
+	 height:85vh;}
+.box a span{text-align: center;
+			align-items: center;
+		display: flex;
+	padding-left: 15%;}
+.box a i{font-size: xx-large;
+padding-left:10px;}
+.box a{margin-top: 20px;}
+.box:hover{box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);;}
+.home{
+	border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;border-radius: 5px;
+	align-items: center;
+	margin: 10px 0px;
+	display: flex;
+	height: 5vh;
+	font-size: large;}
+.home:hover{background-color:black;
+			color:white;}
+

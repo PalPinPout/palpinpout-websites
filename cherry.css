@@ -1,0 +1,26 @@
+
+*{margin:0;padding: 0;}
+.sidenav{background-image:url(imgs/4557533_93701.jpg);}
+.bgdropdown{background-color:pink;}
+.navsection h3{text-align: center;align-items: center;display: flex;border-radius: 15px;margin-left: 42%;}
+.firstpage{background-image: url(imgs/beautiful-cherry-blossom-tree-full-bloom-against-blue-cloudy-sky\ \(1\).jpg);
+width:100%;
+height: 100vh;
+background-position: center;
+background-size: cover;
+}
+.body .text{padding-top:150px;
+text-align:center;font-family: "Pacifico";
+}
+.body .text h1{margin-left: 7%;}
+.pacifico-regular {
+      font-family: "Pacifico", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .body .text pre{font-size: larger;color:black;}
+.navsection img{margin-left: 93%;}
+.slider{margin-top:75vh;}
+.carousel{height:calc(100vh - 84px);}
+.carousel-item img{width:100%;height:100vh;object-fit:cover;}
+body{background-color: palevioletred;}
